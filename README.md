@@ -5,7 +5,8 @@ A Tracker, which keep all your expenses at one place and tell you which month of
 This can be filtereed according to the Year of the expense.
 
 
-![Screenshot 2024-02-27 231348](https://github.com/abhishekraj09/Expense-tracker/assets/83976341/c0d37a6e-ef2f-4c65-927b-945c18126745)
+![Screenshot 2024-02-27 231348](![Screenshot 2024-07-21 160926](https://github.com/user-attachments/assets/1f8c4e32-0925-46f0-8579-a848bff10e80)
+)
 
 
 Made with: ReactJS Styling: CSS5
